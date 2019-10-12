@@ -1,0 +1,12 @@
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\bin\Debug\Philosophy.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\bin\Debug\Philosophy.exe
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\bin\Debug\Philosophy.pdb
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.Form1.resources
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.exe
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.pdb
+c:\users\dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.lvl.resources
+C:\Users\Dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.Question.resources
+C:\Users\Dima\documents\visual studio 2015\Projects\Philosophy\Philosophy\obj\Debug\Philosophy.Help.resources
