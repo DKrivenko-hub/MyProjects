@@ -1,0 +1,8 @@
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\Debug\курсач 2.exe.config
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\Debug\курсач 2.csprojResolveAssemblyReference.cache
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\Debug\курсач_2.Properties.Resources.resources
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\Debug\курсач 2.csproj.GenerateResource.Cache
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\Debug\курсач 2.exe
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\Debug\курсач 2.pdb
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\Debug\курсач 2.exe
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\Debug\курсач 2.pdb

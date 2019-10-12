@@ -1,0 +1,17 @@
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.exe.config
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.exe
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.pdb
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач_2.Properties.Resources.resources
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.csproj.GenerateResource.Cache
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.exe
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.pdb
+d:\users\dima\documents\visual studio 2015\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.csprojResolveAssemblyReference.cache
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.exe.config
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.exe
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\bin\x64\Debug\курсач 2.pdb
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.csprojAssemblyReference.cache
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач_2.Properties.Resources.resources
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.csproj.GenerateResource.cache
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.csproj.CoreCompileInputs.cache
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.exe
+D:\Doc's\Visual Studio 2017\Projects\курсач 2\курсач 2\obj\x64\Debug\курсач 2.pdb
