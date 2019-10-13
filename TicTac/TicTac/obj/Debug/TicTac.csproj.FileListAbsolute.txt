@@ -1,0 +1,9 @@
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\bin\Debug\TicTac.exe.config
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\bin\Debug\TicTac.exe
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\bin\Debug\TicTac.pdb
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.csprojResolveAssemblyReference.cache
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.Properties.Resources.resources
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.csproj.GenerateResource.Cache
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.exe
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.pdb
+c:\users\dima\documents\visual studio 2015\Projects\TicTac\TicTac\obj\Debug\TicTac.Form1.resources
