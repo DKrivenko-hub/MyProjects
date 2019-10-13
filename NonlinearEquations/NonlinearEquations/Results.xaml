@@ -1,0 +1,23 @@
+﻿<Window x:Class="NonlinearEquations.Results"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NonlinearEquations"
+        mc:Ignorable="d"
+        Title="Results" Height="485.467" Width="349.507">
+    <Grid Height="300" VerticalAlignment="Bottom" Margin="0,0,0,0">
+        <Label x:Name="label_Title" Content="Результаты работы" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="108,-139,119,0" />
+
+        <Label x:Name="label_Result_MSI" Content="МПИ" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="43,-71,261,0"/>
+        <Label x:Name="label_Numbers_steps_MSI" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="183,-22,149,0" />
+        <Label x:Name="label_Answer_MSI" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="183,27,149,0"/>
+
+        <Label x:Name="label_Result_Newt" Content="Метод Ньютона" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="43,86,201,0"/>
+        <Label x:Name="label_Numbers_steps_Newt" VerticalAlignment="Top" HorizontalAlignment="Center"  Margin="183,144,149,0" />
+        <Label x:Name="label_Answer_Newt" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="183,193,149,0"/>
+
+        <Button x:Name="button_Exit" Content="Выход" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="153,268,149,0" Click="button_Exit_Click" RenderTransformOrigin="0.268,2.509" />
+
+    </Grid>
+</Window>
