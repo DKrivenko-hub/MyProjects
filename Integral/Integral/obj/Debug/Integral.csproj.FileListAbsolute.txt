@@ -1,0 +1,56 @@
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\Integral.exe.config
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\Integral.exe
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\Integral.pdb
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\MathParser.org-mXparser.Net461.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\System.Drawing.Common.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\ZedGraph.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\ZedGraph.xml
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.csprojAssemblyReference.cache
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.Form1.resources
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.Properties.Resources.resources
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.csproj.GenerateResource.cache
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.csproj.CopyComplete
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.exe
+C:\Users\Дима\source\repos\Integral\Integral\obj\Debug\Integral.pdb
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\Integral.exe.config
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\Integral.exe
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\Integral.pdb
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\MathParser.org-mXparser.Net461.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\System.Drawing.Common.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\ZedGraph.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\ZedGraph.xml
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\de\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\es\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\fr\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\hu\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\it\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\ja\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\pt\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\ru\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\sk\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\sv\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\tr\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.csprojAssemblyReference.cache
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.Form1.resources
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.Properties.Resources.resources
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.csproj.GenerateResource.cache
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.csproj.CoreCompileInputs.cache
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.csproj.CopyComplete
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.exe
+D:\Doc's\Visual Studio 2017\Projects\Integral\Integral\obj\Debug\Integral.pdb
